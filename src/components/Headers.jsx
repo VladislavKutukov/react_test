@@ -22,6 +22,22 @@ function Headers  ()  {
 					<a className = "nav__link" href="#" >Kutukov@.ru</a>
 				
 				</div>
+				
+				<div className="nav">
+					<a className = "nav__link" href="#" >1-234-567-89-12</a>
+					<a className = "nav__link" href="#" >Kutukov@.ru</a>
+				
+				</div>
+				<div className="nav">
+					<a className = "nav__link" href="#" >1-234-567-89-12</a>
+					<a className = "nav__link" href="#" >Kutukov@.ru</a>
+				
+				</div>
+				<div className="nav">
+					<a className = "nav__link" href="#" >1-234-567-89-12</a>
+					<a className = "nav__link" href="#" >Kutukov@.ru</a>
+				
+				</div>
 				<div className="menu__icon">
 					<span></span>
 				</div>
