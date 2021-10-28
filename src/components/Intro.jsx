@@ -34,6 +34,31 @@ function Intro  ()  {
                             icon
                         </div>
                 </div>
+                <div className="masters">
+                        <div className="nav">
+                            <a className = "master__nav"  >Наши мастера на связи</a>
+                            <a className = "master__nav"  >1-234-567-89-12 Денис</a>
+                            <a className = "master__nav"  >1-234-567-89-12 Михаил</a>
+                            <a className = "master__nav"  >1-234-567-89-12 Владислав</a>
+                            
+                        </div>
+                        <div className="master__icon">
+                            icon
+                        </div>
+                </div>
+                <div className="masters">
+                        <div className="nav">
+                            <a className = "master__nav"  >Наши мастера на связи</a>
+                            <a className = "master__nav"  >1-234-567-89-12 Денис</a>
+                            <a className = "master__nav"  >1-234-567-89-12 Михаил</a>
+                            <a className = "master__nav"  >1-234-567-89-12 Владислав</a>
+                            
+                        </div>
+                        <div className="master__icon">
+                            icon
+                        </div>
+                </div>
+                
             </div>
         </section>
    </div>
