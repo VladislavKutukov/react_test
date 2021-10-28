@@ -48,6 +48,10 @@ li {
 	align-items: center;
 	padding: 50px;
 	font-size: 22px;
+	border-bottom: 1px solid #111111;
+	position: absolute;
+	left: 0;
+	top: 0;
 }
 .modal-content._active{
 	left: 0;
